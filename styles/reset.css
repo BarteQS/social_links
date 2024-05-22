@@ -41,7 +41,7 @@ picture,
 video,
 canvas,
 svg {
-  max-width: 100%;
+  max-inline-size: 100%;
   display: block;
 }
 
